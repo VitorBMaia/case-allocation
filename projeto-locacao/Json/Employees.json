@@ -1,0 +1,28 @@
+[{
+    "Name": "Ronaldo",
+    "JobDescription": "Front",
+    "DailyWorkLoad": 8,
+    "WorkHourCost": 30,
+    "Email" : "Roanldo@esx.com",
+    "PhoneNumber" : "+5511123234345"
+
+},
+{
+    "Name": "Jose",
+    "JobDescription": "Back",
+    "DailyWorkLoad": 8,
+    "WorkHourCost": 35,
+    "Email" : "Jose@esx.com",
+    "PhoneNumber" : "+5511163234345"
+
+},
+{
+    "Name": "Maria",
+    "JobDescription": "BDD",
+    "DailyWorkLoad": 8,
+    "WorkHourCost": 40,
+    "Email" : "Maria@esx.com",
+    "PhoneNumber" : "+5511833234735"
+
+}]
+

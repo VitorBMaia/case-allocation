@@ -1,0 +1,11 @@
+D:\Workspace\case-locacao\projeto-locacao\bin\Debug\netcoreapp2.2\projeto-locacao.deps.json
+D:\Workspace\case-locacao\projeto-locacao\bin\Debug\netcoreapp2.2\projeto-locacao.runtimeconfig.json
+D:\Workspace\case-locacao\projeto-locacao\bin\Debug\netcoreapp2.2\projeto-locacao.runtimeconfig.dev.json
+D:\Workspace\case-locacao\projeto-locacao\bin\Debug\netcoreapp2.2\projeto-locacao.dll
+D:\Workspace\case-locacao\projeto-locacao\bin\Debug\netcoreapp2.2\projeto-locacao.pdb
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.csprojAssemblyReference.cache
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.csproj.CoreCompileInputs.cache
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.AssemblyInfoInputs.cache
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.AssemblyInfo.cs
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.dll
+D:\Workspace\case-locacao\projeto-locacao\obj\Debug\netcoreapp2.2\projeto-locacao.pdb

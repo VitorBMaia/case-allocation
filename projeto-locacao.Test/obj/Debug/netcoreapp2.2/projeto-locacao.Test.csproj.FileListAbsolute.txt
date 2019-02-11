@@ -1,0 +1,17 @@
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.Test.deps.json
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.Test.runtimeconfig.json
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.Test.runtimeconfig.dev.json
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.Test.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.Test.pdb
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\bin\Debug\netcoreapp2.2\projeto-locacao.pdb
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.csprojAssemblyReference.cache
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.csproj.CoreCompileInputs.cache
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.AssemblyInfoInputs.cache
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.AssemblyInfo.cs
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.csproj.CopyComplete
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.dll
+D:\Workspace\case-locacao\projeto-locacao.Test\obj\Debug\netcoreapp2.2\projeto-locacao.Test.pdb
